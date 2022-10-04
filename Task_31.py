@@ -27,15 +27,3 @@ print(f'сумма которых равна {sum}')
 
 
 
-# def mix(array):
-#     for j in range(0, len(array)):
-#         rnd = int(random.randrange(0, len(array)))
-#         temp = listr[j]
-#         listr[j] = listr[rnd]
-#         listr[rnd] = temp
-#     return array
-
-# listr = list
-# listmix = mix(listr)
-# print(listmix)
-
